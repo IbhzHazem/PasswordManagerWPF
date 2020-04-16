@@ -10,7 +10,7 @@ BearPass is a password manager that helps you secure and organize your passwords
 
 # Dashboard
 
-![N|Solid](https://i.ibb.co/t3KbC8f/3321.png)
+![N|Solid](https://i.ibb.co/zNxSfGc/3321.png)
 
 # Prerequisites
 
